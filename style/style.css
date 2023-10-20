@@ -1,16 +1,45 @@
-body{
-background-color: whitesmoke;
-padding: 16px;
-}
-
 main{
-    justify-content: center;
-    margin: 16px;
     display: flex;
     justify-content: center;
-    border: 1px solid black;
-    padding: 5px;
-    border-radius: 10px;
-    max-width: 450px;
 }
 
+.okenko{
+    background-color: grey;
+    border: solid;
+   border-color: black;
+    border-radius:16px ;
+    text-align: center;
+    min-width: 400px;
+    padding: 16px;
+    margin: 40px;
+    }
+
+.nameodsazeni{
+    margin: 10px;
+}
+
+.buttonsodsazeni{
+    margin: 10px;
+}
+
+#a{
+    border: solid black;
+    background-color: white;
+    border-radius: 2px;
+    border-width: 1px;
+    padding: 1px;
+}
+
+#b{
+    border: solid black;
+    background-color: white;
+    border-radius: 2px;
+    border-width: 1px;
+}
+
+#c{
+    border: solid black;
+    background-color: white;
+    border-radius: 2px;
+    border-width: 1px;
+}
