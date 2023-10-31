@@ -43,3 +43,38 @@ main{
     border-radius: 2px;
     border-width: 1px;
 }
+
+.homepage{
+text-align: center;
+justify-content:center;
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+}
+
+.button-33{
+    border-radius: 100px;
+    background-color: #c2fbd7;
+    box-shadow: rgb(139, 209, 166) 0 -25;
+    color: green;
+    cursor: pointer;
+    display: middle;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 7px 20px;
+    text-align: center;
+    text-decoration: none;
+    transition: all 250ms;
+    border: 0;
+    font-size: 20px;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    width: 100px;
+}
+
+.tlacitka{
+    display: flex;
+    justify-content: center;
+}
